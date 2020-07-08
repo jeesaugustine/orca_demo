@@ -1,0 +1,26 @@
+about to read a
+read a
+read b
+read c
+433106, 128053781, 0, 1821.53
+about to read a
+read a
+read b
+read c
+433106, 256049435, 0, 1988.42
+about to read a
+read a
+read b
+read c
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+Aborted (core dumped)
+about to read a
+read a
+read b
+read c
+433106, 64055954, 0, 1760.94
+about to read a
+read a
+read b
+read c
